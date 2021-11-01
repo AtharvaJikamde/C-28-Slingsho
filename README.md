@@ -1,1 +1,2 @@
-# C-28-Slingsho
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
